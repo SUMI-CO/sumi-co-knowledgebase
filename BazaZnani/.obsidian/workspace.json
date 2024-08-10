@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Курсы/Введение в CTF.md",
+                "file": "Черновики/RootMe==XSS Stored 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Курсы/Введение в CTF.md",
+                "file": "Черновики/RootMe==XSS Stored 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курсы/Введение в CTF.md",
+                "file": "Черновики/RootMe==XSS Stored 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курсы/Введение в CTF.md"
+                "file": "Черновики/RootMe==XSS Stored 1.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "fe08059d37b151a9",
   "lastOpenFiles": [
-    "Общая/CTF и Киберполигоны.md",
     "Черновики/Основы веба для стфов.md",
+    "Черновики/RootMe==XSS Stored 1.md",
     "Курсы/Введение в CTF.md",
+    "Общая/CTF и Киберполигоны.md",
     "Добро пожаловать!.md",
     "Курсы",
     "Черновики",
